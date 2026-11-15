@@ -25,7 +25,7 @@ export default {
   'p3.desc': '賓客用手機打開的婚禮 Web App：跑酷遊戲、有獎品的抽卡、即時祝福留言，還有照片沖印。',
   'p3.b1': '支援 100 人以上同時使用', 'p3.b2': '三種語言，附新人專用的管理畫面', 'p3.more': '閱讀案例 →',
 
-  'p4.name': '網站與 Web App', 'p4.kind': 'Web・Firebase・Google Workspace',
+  'p4.name': '網站與 Web App', 'p4.kind': '網站・Web App・雲端',
   'p4.desc': '在手機上也好看又快速的網站與 Web App，從喜帖、活動頁面到把資料存到雲端的小型業務工具。',
   'p4.b1': '婚禮喜帖網站、本網站', 'p4.b2': '即時資料、登入與管理畫面',
 
