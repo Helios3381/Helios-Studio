@@ -1,5 +1,5 @@
 // Renders the PNG icons for the site from the same sun mark as assets/generated/icons/favicon.svg:
-// apple-touch-icon.png (180×180) and og-image.png (1200×630 share image with the studio name).
+// apple-touch-icon.png (180×180) and og-image.png (1200×630 share image with the studio name and languages).
 // Usage: swift tools/make-icons.swift assets/generated/icons
 import AppKit
 import CoreText
@@ -59,5 +59,5 @@ render(1200, 630, "og-image.png") { ctx in
     sun(ctx, CGPoint(x: 250, y: 315), 68, hex("#f59e0b"))
     text(ctx, "Helios Studio", "Avenir Next Heavy", 92, hex("#1c2333"), CGPoint(x: 470, y: 330))
     text(ctx, "Games · Apps · Custom commissions", "Avenir Next Demi Bold", 36, hex("#5d6577"), CGPoint(x: 474, y: 264))
-    text(ctx, "Nagoya, Japan", "Avenir Next Demi Bold", 30, hex("#ea580c"), CGPoint(x: 474, y: 212))
+    text(ctx, "English · 日本語 · 繁體中文", "Avenir Next Demi Bold", 30, hex("#ea580c"), CGPoint(x: 474, y: 212))
 }

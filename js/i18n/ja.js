@@ -3,7 +3,7 @@ export default {
   'meta.title': 'Helios Studio｜心をこめたゲームとアプリ',
   'nav.skip': '本文へスキップ', 'nav.work': '制作物', 'nav.services': 'サービス', 'nav.about': '代表について', 'nav.contact': 'お問い合わせ', 'nav.menu': 'メニュー',
 
-  'hero.eyebrow': 'インディースタジオ・名古屋',
+  'hero.eyebrow': 'インディースタジオ・ゲーム／アプリ／Web',
   'hero.title': '<span class="nw">毎日のひとときを</span><span class="nw"><em>照らす</em>、</span><span class="nw">ゲームとアプリを。</span>',
   'hero.lead': 'Helios Studio は、ゲーム・スマホアプリ・Web サイトを企画から開発まで手がけるスタジオです。結婚式のゲームのように、特別な一日のための「世界にひとつのアプリ」もお作りします。',
   'hero.cta': '制作を相談する', 'hero.cta2': '制作物を見る',
@@ -55,9 +55,9 @@ export default {
   'st4.t': '公開・サポート', 'st4.d': '公開したあとも、当日まで一緒に見守ります。',
 
   'about.eyebrow': '代表', 'about.role': '代表・ソフトウェアエンジニア・ゲーム開発者',
-  'about.p1': 'Helios Wong、Helios Studio 代表。2020 年に香港理工大学 電子情報工学科を卒業後、香港でソフトウェア開発に従事。2024 年からは愛知県名古屋市でソフトウェアエンジニアとして勤務。',
+  'about.p1': 'Helios Wong、Helios Studio 代表。2020 年に香港理工大学 電子情報工学科を卒業後、香港でソフトウェア開発に従事。2024 年からは日本を拠点に活動。',
   'about.p2': 'フロントエンド・バックエンド開発から、ロボットや産業機器のソフトウェアまで、6 年以上のソフトウェア開発経験を持つ。自社のゲームやアプリの開発に取り組むとともに、創造性と品質を兼ね備えたオーダーメイドのアプリをお客様に届け、大切な瞬間をより心に残るものにするため、Helios Studio を設立。',
-  'about.based': '拠点', 'about.city': '愛知県名古屋市', 'about.lang': '言語', 'about.langs': '英語、日本語（JLPT N1）、広東語、北京語',
+  'about.lang': '言語', 'about.langs': '英語、日本語（JLPT N1）、広東語、北京語',
 
   'faq.eyebrow': 'よくある質問', 'faq.title': 'よくいただく質問',
   'q1.q': '制作期間はどのくらいですか？', 'q1.a': '結婚式やイベント用のアプリは、通常 4〜8 週間です。大きなアプリは段階的に計画します。日程が決まっている場合は、お早めにご相談ください。',

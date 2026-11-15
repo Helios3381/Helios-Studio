@@ -3,7 +3,7 @@ export default {
   'meta.title': 'Helios Studio｜用心製作的遊戲與 App',
   'nav.skip': '跳到主要內容', 'nav.work': '作品', 'nav.services': '服務', 'nav.about': '關於創辦人', 'nav.contact': '聯絡我們', 'nav.menu': '選單',
 
-  'hero.eyebrow': '獨立工作室・日本名古屋',
+  'hero.eyebrow': '獨立工作室・遊戲／App／網站',
   'hero.title': '<span class="nw"><em>點亮</em>每個日常時刻</span><span class="nw">的遊戲與 App。</span>',
   'hero.lead': 'Helios Studio 從企劃到開發，打造遊戲、手機 App 與網站。也為你的特別日子製作獨一無二的 App，例如讓賓客津津樂道的婚禮派對遊戲。',
   'hero.cta': '開始合作', 'hero.cta2': '看看作品',
@@ -55,9 +55,9 @@ export default {
   'st4.t': '上線與支援', 'st4.d': '上線後，我們會陪你一起到大日子當天。',
 
   'about.eyebrow': '創辦人', 'about.role': '創辦人・軟體工程師・遊戲開發者',
-  'about.p1': 'Helios Wong，Helios Studio 創辦人。2020 年畢業於香港理工大學電子及資訊工程學系，畢業後於香港從事軟體開發工作，2024 年起於日本愛知縣名古屋擔任軟體工程師。',
+  'about.p1': 'Helios Wong，Helios Studio 創辦人。2020 年畢業於香港理工大學電子及資訊工程學系，畢業後於香港從事軟體開發工作，2024 年起以日本為據點。',
   'about.p2': '具備逾六年軟體開發經驗，專業領域涵蓋前端與後端開發，以及機器人與產業設備軟體。創立 Helios Studio，致力於開發自有遊戲與應用程式，並為客戶量身打造兼具創意與品質的客製化 App，讓每一個重要時刻更加難忘。',
-  'about.based': '所在地', 'about.city': '日本愛知縣名古屋', 'about.lang': '語言', 'about.langs': '英文、日文（JLPT N1）、粵語、普通話',
+  'about.lang': '語言', 'about.langs': '英文、日文（JLPT N1）、粵語、普通話',
 
   'faq.eyebrow': '常見問題', 'faq.title': '大家常問的問題',
   'q1.q': '製作需要多久？', 'q1.a': '婚禮或活動 App 通常需要 4〜8 週，大型 App 會分階段規劃。如果日期已經確定，請盡早與我們聯絡。',
