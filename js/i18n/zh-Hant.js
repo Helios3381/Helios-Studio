@@ -11,6 +11,7 @@ export default {
 
   'work.eyebrow': '產品', 'work.title': '我們正在做的東西',
   'work.sub': '從完整的 3D 動作 RPG 到旅行紀錄 App，每項產品的企劃、設計、開發與翻譯都由我們親手完成。',
+  'plat.title': '除了以上產品，我們也能開發：', 'plat.android': 'Android App', 'plat.windows': 'Windows 應用程式', 'plat.ios': 'iOS App', 'plat.unity': 'Unity 遊戲（PC・瀏覽器）', 'plat.web': '網站與 Web App',
   'tag.dev': '開發中', 'tag.live': '已上線', 'tag.open': '接受委託',
 
   'p1.name': '魔王的遺志', 'p1.kind': '3D 動作 RPG・Unity・PC',
@@ -33,7 +34,7 @@ export default {
   'svc.sub': '告訴我們你的想法，我們負責企劃、設計、開發到上線。小型案件與個人委託都非常歡迎。',
   's1.t': '婚禮・活動遊戲', 's1.d': '為婚禮、派對、公司活動打造的互動頁面：小遊戲、抽獎、賓客留言、照片收集等。',
   's2.t': '遊戲', 's2.d': '瀏覽器（WebGL）、PC 與手機的 Unity 遊戲，從休閒遊戲到有劇情的 RPG。',
-  's3.t': '手機 App', 's3.d': 'iOS（Swift）與 Android（Kotlin）原生 App，從原型到上架。',
+  's3.t': '手機與 Windows App', 's3.d': 'iOS（Swift）與 Android（Kotlin）原生 App，以及 Windows 桌面應用程式（C#），從原型到上線。',
   's4.t': '網站與 Web App', 's4.d': '響應式網站，以及具備即時資料庫、登入、表單與管理畫面的 Web App。',
   's5.t': '預設三種語言', 's5.d': '所有作品都能以英文、日文、繁體中文上線，由母語程度的人撰寫，不是機器翻譯。',
   's6.t': '工具與自動化', 's6.d': '幫你省時間的小工具：資料輸入、上傳雲端、試算表，以及與 Google 或 Microsoft 服務的串接。',
